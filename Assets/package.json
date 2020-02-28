@@ -1,0 +1,19 @@
+{
+    "name": "com.martingonzalez.androidmanifestplaceholdersresolver",
+    "version": "1.0.0",
+    "displayName": "AndroidManifest Placeholders Resolver",
+    "description": "Patches build.gradle with placeholders. When gradle project is built AndroidManifest will be patched with those placeholders values.",
+    "unity": "2018.4",
+    "keywords": [
+        "gradle",
+        "android manifest",
+        "android",
+        "placeholders",
+        "resolver"
+    ],
+    "author": {
+        "name": "Martin Gonzalez",
+        "email": "gonzalez.martin90@gmail.com",
+        "url": "https://github.com/MartinGonzalez/unity-android-manifest-placeholders-resolver"
+    }
+}
